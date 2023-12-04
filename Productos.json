@@ -1,0 +1,137 @@
+[
+	{
+		"id": 1,
+		"title": "Manzana",
+		"description": "Manzana roja seleccionada",
+		"price": 7500,
+		"thumbnail": "https://elegifruta.com.ar/wp-content/uploads/2017/07/manzana_roja.jpg",
+		"code": "MR006",
+		"stock": 1427
+	},
+	{
+		"id": 2,
+		"title": "Pera",
+		"description": "Pera seleccionada",
+		"price": 820,
+		"thumbnail": "https://img.freepik.com/foto-gratis/tiro-vertical-peras-maduras-frescas_181624-61344.jpg?w=360&t=st=1699375786~exp=1699376386~hmac=d86c89c024079a05ae83fe1e1cc90b0d331d8378c3d93ede57f49c872c9665b7",
+		"code": "PR004",
+		"stock": 267
+	},
+	{
+		"id": 3,
+		"title": "Banana",
+		"description": "Banana seleccionada",
+		"price": 1200,
+		"thumbnail": "https://img.freepik.com/vector-gratis/racimo-platano-amarillo-maduro-vector-aislado-sobre-fondo-blanco_1284-45456.jpg?w=740&t=st=1699375720~exp=1699376320~hmac=60816c5e156992fd584689c4de83ebeab816060ee1081994c83f9fdad7c18835",
+		"code": "BN002",
+		"stock": 1767
+	},
+	{
+		"id": 4,
+		"title": "Fresa",
+		"description": "Fresa fresca y jugosa",
+		"price": 1800,
+		"thumbnail": "https://img.freepik.com/foto-gratis/fresas-frescas-tazon-madera_1150-18191.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "FS009",
+		"stock": 450
+	},
+	{
+		"id": 5,
+		"title": "Uva",
+		"description": "Racimo de uvas moradas",
+		"price": 2500,
+		"thumbnail": "https://img.freepik.com/foto-gratis/racimo-uvas-moradas-sobre-fondo-blanco_87408-24.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "UV015",
+		"stock": 600
+	},
+	{
+		"id": 6,
+		"title": "Mango",
+		"description": "Mango maduro y delicioso",
+		"price": 3500,
+		"thumbnail": "https://img.freepik.com/vector-gratis/vector-maduro-amarillo-naranja-rojo-entero-cubos-mango-rodajas-hojas-aisladas-sobre-fondo-blanco_1284-45465.jpg?w=740&t=st=1701690750~exp=1701691350~hmac=f392e415ac26d307bedf1ad3ab32cd1e48dcb6f8638a77ec3f0543fb56a6ee18",
+		"code": "MG008",
+		"stock": 300
+	},
+	{
+		"id": 7,
+		"title": "Kiwi",
+		"description": "Kiwi fresco y vibrante",
+		"price": 1200,
+		"thumbnail": "https://img.freepik.com/foto-gratis/kiwi-fresco-plato-blanco_144627-23319.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "KW005",
+		"stock": 800
+	},
+	{
+		"id": 8,
+		"title": "Piña",
+		"description": "Piña tropical jugosa",
+		"price": 2800,
+		"thumbnail": "https://img.freepik.com/foto-gratis/pi%C3%B1a-aislada-fondo-blanco_1098-20426.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "PN012",
+		"stock": 400
+	},
+	{
+		"id": 9,
+		"title": "Cereza",
+		"description": "Cerezas rojas frescas",
+		"price": 2000,
+		"thumbnail": "https://img.freepik.com/foto-gratis/cereza-roja-sobre-fondo-negro_1205-4162.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "CR007",
+		"stock": 550
+	},
+	{
+		"id": 10,
+		"title": "Sandía",
+		"description": "Sandía jugosa y refrescante",
+		"price": 3000,
+		"thumbnail": "https://img.freepik.com/foto-gratis/rodajas-sandia-roja-jugosa_53876-31953.jpg?w=1060&t=st=1701690767~exp=1701691367~hmac=c775f91a04e56120ebbfbb187ec5f84efed52a28055332450754e95ba1d324bd",
+		"code": "SD018",
+		"stock": 200
+	},
+	{
+		"id": 11,
+		"title": "Melocotón",
+		"description": "Melocotón maduro y dulce",
+		"price": 2200,
+		"thumbnail": "https://img.freepik.com/foto-gratis/monton-duraznos-frescos_23-2147920829.jpg?w=740&t=st=1701690701~exp=1701691301~hmac=50f7affbbd355339966a70890c38b2d73c34ac35281714f102827ae7e2b7d8fc",
+		"code": "MC010",
+		"stock": 350
+	},
+	{
+		"id": 12,
+		"title": "Limón",
+		"description": "Limones amarillos frescos",
+		"price": 1000,
+		"thumbnail": "https://img.freepik.com/foto-gratis/limon-aislado-fondo-blanco_144627-24061.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "LM003",
+		"stock": 700
+	},
+	{
+		"id": 13,
+		"title": "Granada",
+		"description": "Granadas rojas y jugosas",
+		"price": 2800,
+		"thumbnail": "https://img.freepik.com/foto-gratis/granada-exotica-deliciosa-sobre-fondo-blanco_144627-12577.jpg?w=1060&t=st=1701690616~exp=1701691216~hmac=a34779a9a9d45cfe1ba0f70ffea20e5ad4cc764acc80f421f9d7ba9312ea205b",
+		"code": "GD014",
+		"stock": 300
+	},
+	{
+		"id": 14,
+		"title": "Naranja",
+		"description": "Naranjas frescas y saludables",
+		"price": 1500,
+		"thumbnail": "https://img.freepik.com/foto-gratis/naranjas-frescas-madera_1150-1594.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "NR009",
+		"stock": 500
+	},
+	{
+		"id": 15,
+		"title": "Aguacate",
+		"description": "Aguacate maduro y cremoso",
+		"price": 2000,
+		"thumbnail": "https://img.freepik.com/foto-gratis/aguacate-fondo-blanco_144627-29819.jpg?w=626&h=417&fit=crop&crop=faces",
+		"code": "AG005",
+		"stock": 400
+	}
+]

@@ -17,7 +17,6 @@ router.get('/realtimeproducts', (req, res) => {
         title: "realTimeProducts",
         products
     })
-    socketServer.emit('realTimeProducts', { products });
 });
 
 export default router
